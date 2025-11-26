@@ -1,1 +1,1 @@
-# bt2
+# QuanLyHocSinh_LINQ
